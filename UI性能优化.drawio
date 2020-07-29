@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-07-29T03:19:35.728Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.89 Safari/537.36" etag="T1bzqKxhydFLjxYLUqiz" version="13.5.4" type="github">
+<mxfile host="app.diagrams.net" modified="2020-07-29T03:23:52.338Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.89 Safari/537.36" etag="M3fA7CKM5_VhxrMAFxrQ" version="13.5.4" type="github">
   <diagram id="PwJVHqZTUF8KdpS5hUyB" name="第 1 页">
     <mxGraphModel dx="2012" dy="1804" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -31,7 +31,7 @@
         <mxCell id="vSH8UtmdNrjKOl-DguEc-7" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="vSH8UtmdNrjKOl-DguEc-2" target="vSH8UtmdNrjKOl-DguEc-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="vSH8UtmdNrjKOl-DguEc-2" value="内存" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+        <mxCell id="vSH8UtmdNrjKOl-DguEc-2" value="UI内存" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="140" y="220" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="vSH8UtmdNrjKOl-DguEc-16" value="" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="vSH8UtmdNrjKOl-DguEc-4" target="vSH8UtmdNrjKOl-DguEc-15" edge="1">
@@ -48,20 +48,20 @@
         <mxCell id="vSH8UtmdNrjKOl-DguEc-14" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="vSH8UtmdNrjKOl-DguEc-5" target="vSH8UtmdNrjKOl-DguEc-9" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="vSH8UtmdNrjKOl-DguEc-5" value="&lt;font style=&quot;font-size: 11px&quot;&gt;图集内存&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
-          <mxGeometry x="70" y="160" width="50" height="50" as="geometry" />
+        <mxCell id="vSH8UtmdNrjKOl-DguEc-5" value="&lt;font style=&quot;font-size: 11px&quot;&gt;UI图集内存&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="50" y="130" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="vSH8UtmdNrjKOl-DguEc-20" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;edgeStyle=orthogonalEdgeStyle;curved=1;" parent="1" source="vSH8UtmdNrjKOl-DguEc-9" target="vSH8UtmdNrjKOl-DguEc-13" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="vSH8UtmdNrjKOl-DguEc-9" value="&lt;font style=&quot;font-size: 7px&quot;&gt;图集规划&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
-          <mxGeometry x="-10" y="110" width="50" height="50" as="geometry" />
+        <mxCell id="vSH8UtmdNrjKOl-DguEc-9" value="&lt;font style=&quot;font-size: 7px&quot;&gt;UI图集规划&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="-15" y="40" width="60" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="vSH8UtmdNrjKOl-DguEc-10" value="&lt;font style=&quot;font-size: 7px ; line-height: 100%&quot;&gt;图集引用&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
-          <mxGeometry x="170" y="100" width="60" height="60" as="geometry" />
+        <mxCell id="vSH8UtmdNrjKOl-DguEc-10" value="&lt;font style=&quot;font-size: 7px ; line-height: 100%&quot;&gt;UI图集引用&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="140" y="50" width="60" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="vSH8UtmdNrjKOl-DguEc-13" value="&lt;div&gt;&lt;span style=&quot;font-size: 6px&quot;&gt;资源未使用&lt;/span&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;align=center;" parent="1" vertex="1">
-          <mxGeometry x="60" y="-10" width="60" height="60" as="geometry" />
+        <mxCell id="vSH8UtmdNrjKOl-DguEc-13" value="&lt;div&gt;&lt;span style=&quot;font-size: 6px&quot;&gt;UI资源未使用&lt;/span&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;align=center;" parent="1" vertex="1">
+          <mxGeometry x="-15" y="-60" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="vSH8UtmdNrjKOl-DguEc-15" value="&lt;span style=&quot;font-size: 6px ; line-height: 120%&quot;&gt;内存无法被GC掉&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;align=center;" parent="1" vertex="1">
           <mxGeometry x="250" y="50" width="60" height="60" as="geometry" />
@@ -106,8 +106,26 @@
         <mxCell id="B0J6_wiplj9hyIDX13JS-20" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="210" y="-70" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="B0J6_wiplj9hyIDX13JS-21" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="B0J6_wiplj9hyIDX13JS-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="B0J6_wiplj9hyIDX13JS-21" target="B0J6_wiplj9hyIDX13JS-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="B0J6_wiplj9hyIDX13JS-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="B0J6_wiplj9hyIDX13JS-21" target="B0J6_wiplj9hyIDX13JS-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="B0J6_wiplj9hyIDX13JS-21" value="干掉lua层的引用" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="360" y="90" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="B0J6_wiplj9hyIDX13JS-22" value="加到UI性能周报里面" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="90" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="B0J6_wiplj9hyIDX13JS-24" value="&lt;span style=&quot;background-color: rgb(255 , 255 , 255)&quot;&gt;进一步&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="500" y="110" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="B0J6_wiplj9hyIDX13JS-25" value="1. 排查每个面板&lt;br&gt;2. 关闭，GC之后&lt;br&gt;3. 是否还被引用着" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="B0J6_wiplj9hyIDX13JS-27" value="具体" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="400" y="160" width="40" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
